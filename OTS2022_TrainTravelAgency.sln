@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_TrainTravelAgency", "OTS2022_TrainTravelAgency\OTS2022_TrainTravelAgency.csproj", "{EA2C3499-944F-4D90-8C1A-DD0C168EC188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_TrainTravelAgency.Test", "OTS2022_TrainTravelAgency.Test\OTS2022_TrainTravelAgency.Test.csproj", "{91E7F1B3-3928-4B24-AE46-F58791DCDB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2C3499-944F-4D90-8C1A-DD0C168EC188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2C3499-944F-4D90-8C1A-DD0C168EC188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2C3499-944F-4D90-8C1A-DD0C168EC188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2C3499-944F-4D90-8C1A-DD0C168EC188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E7F1B3-3928-4B24-AE46-F58791DCDB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E7F1B3-3928-4B24-AE46-F58791DCDB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E7F1B3-3928-4B24-AE46-F58791DCDB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E7F1B3-3928-4B24-AE46-F58791DCDB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3495F3-6E06-4132-B2B7-4BA6DF4EE709}
+	EndGlobalSection
+EndGlobal
